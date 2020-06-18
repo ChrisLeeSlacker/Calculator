@@ -1,3 +1,2 @@
-# Calculator
-Adv. Calc
+# Adv. Calculator
 Not sure what to put in here.
