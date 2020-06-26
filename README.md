@@ -1,2 +1,2 @@
 # Adv. Calculator
-Not sure what to put in here.
+Calculator for various smaller operations.
